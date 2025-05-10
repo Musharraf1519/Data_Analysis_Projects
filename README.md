@@ -34,6 +34,3 @@ Each project includes:
 * Insight Generation & Business Reporting
 * Git & Project Structure Best Practices
 
----
-
-Let me know if you'd like this split across files or want badges (like tools used, license, etc.) added at the top!
