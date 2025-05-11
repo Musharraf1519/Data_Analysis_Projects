@@ -4,7 +4,7 @@
 Segment customers based on their purchasing behavior using the RFM (Recency, Frequency, Monetary) model. The goal is to identify high-value customers, at-risk customers, and loyal segments for targeted marketing strategies.
 
 ## 📦 Dataset
-- **Source**: https://www.kaggle.com/datasets/carrie1/ecommerce-data
+- **Source**: [Kaggle - E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 - **Contents**: Customer demographics, transaction history, purchase frequency, product categories.
 
 ## 🧰 Tools & Technologies
