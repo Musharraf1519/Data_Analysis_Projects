@@ -4,7 +4,7 @@
 Analyze sales data to uncover revenue trends, profit margins, and performance by region and category. This analysis will help identify areas for growth and improve sales strategies.
 
 ## 📦 Dataset
-- **Source**: Kaggle Sales Dataset  
+- **Source**: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting 
 - **Contents**: Sales transactions, product categories, revenue, cost, and region information.
 
 ## 🧰 Tools & Technologies
