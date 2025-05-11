@@ -1,35 +1,34 @@
-# 📊 Data Analysis Projects
+# 📅 Day 1: Setup & Project Planning
 
-This repository features four complete, real-world data analysis projects designed to showcase skills across the full data analysis lifecycle — from data cleaning to business insights. Each project uses a combination of tools such as **Python**, **Pandas**, **SQL**, **Excel**, and **Power BI**.
+## 🧠 Objective
+Set up the required tools and environments for all four data analysis projects and finalize datasets. This stage ensures a consistent foundation across tools and data sources for smooth execution in the coming days.
 
-## 🔍 Projects Included
+---
 
-1. **Sales Analysis**
-   Analyze sales data to uncover trends, top-performing regions/products, and seasonal patterns.
+## ✅ Tools Installation
 
-2. **Web Traffic Analytics**
-   Explore website traffic logs to evaluate user engagement, traffic sources, and session behavior.
+Ensure the following tools are installed and properly configured:
 
-3. **Customer Segmentation**
-   Use SQL and clustering logic to segment customers based on demographics and behavior.
+### 🔧 Required Tools:
+- **Power BI Desktop** – for interactive dashboards and reports
+- **Anaconda Distribution** – for managing Python environments
+- **Jupyter Notebook** or **VS Code** – for Python development
+- **MySQL** or **PostgreSQL** – for SQL-based analytics
+- **Microsoft Excel** – for basic data cleaning and pivoting
 
-4. **Financial Data Analysis**
-   Evaluate financial KPIs to identify cost-saving opportunities and improve decision-making.
+---
 
-## 📁 Folder Structure
+## 📦 Dataset Selection
 
-Each project includes:
+Datasets selected for each project are publicly available and well-suited for our analysis goals:
 
-* `data/` – Raw datasets
-* `notebooks/` or `SQL/` – Working scripts or queries
-* `visuals/` – Charts and dashboards
-* `summary.md` – Project overview and key insights
+| Project | Dataset | Source |
+|--------|---------|--------|
+| **Project 1: Sales Analysis** | Global Superstore Sales Dataset | [Kaggle](https://www.kaggle.com/datasets/tylerx/global-super-store) |
+| **Project 2: Web Analytics** | E-commerce Clickstream Dataset | [Kaggle](https://www.kaggle.com/datasets/waqi786/e-commerce-clickstream-and-transaction-dataset) |
+| **Project 3: Customer Segmentation** | Retail Customer Transactions | [Kaggle - UK Online Retail](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset) |
+| **Project 4: Financial Analysis** | Historical Stock Market Data | [yfinance (Python API)](https://pypi.org/project/yfinance/) |
 
-## 🛠️ Skills Demonstrated
+---
 
-* Data Cleaning & Transformation (Pandas, Excel)
-* Exploratory Data Analysis (EDA)
-* SQL Queries & Joins
-* Data Visualization (Matplotlib, Seaborn, Power BI)
-* Insight Generation & Business Reporting
-* Git & Project Structure Best Practices
+## 📁 Project Folder Structure
