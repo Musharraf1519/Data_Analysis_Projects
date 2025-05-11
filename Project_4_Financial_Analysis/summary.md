@@ -4,7 +4,7 @@
 Analyze financial data and uncover trends, volatility, and performance across different time periods using Python.
 
 ## 📦 Dataset
-- **Source**: https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
+- **Source**: [Kaggle - NIFTY-50 Stock Market](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data)
 - **Contents**: Stock prices (OHLC), volume, adjusted close prices, historical data.
 
 ## 🧰 Tools & Technologies
