@@ -19,16 +19,14 @@ Segment customers based on their purchasing behavior using the RFM (Recency, Fre
 
 ## 📊 Power BI Visualizations
 - KPI Cards:
-      - Total Customers
-      - Average CLV
-      - Total Premium Collected
+    - Total Customers
+    - Average CLV
+    - Total Premium Collected
 - RFM Visuals:
-      - Frequency and Monetary Score Distribution
-
+    - Frequency and Monetary Score Distribution
 - CLV Visuals:
     - Top 10 Customers by Lifetime Value
     - Average Monthly CLV
- 
 - Slicers:
     - Gender
     - Age
