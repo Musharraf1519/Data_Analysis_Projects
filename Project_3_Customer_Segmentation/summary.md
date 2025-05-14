@@ -17,6 +17,23 @@ Segment customers based on their purchasing behavior using the RFM (Recency, Fre
 - rfm_scores – Customer RFM scores (Recency, Frequency, Monetary) using NTILE
 - customer_lifetime_value – Total and average monthly premium per customer
 
+## 📊 Power BI Visualizations
+- KPI Cards:
+      - Total Customers
+      - Average CLV
+      - Total Premium Collected
+- RFM Visuals:
+      - Frequency and Monetary Score Distribution
+
+- CLV Visuals:
+    - Top 10 Customers by Lifetime Value
+    - Average Monthly CLV
+ 
+- Slicers:
+    - Gender
+    - Age
+
+
 ## 📊 Key Analysis Metrics
 - RFM (Recency, Frequency, Monetary) scores  
 - Customer Lifetime Value (CLV)  
