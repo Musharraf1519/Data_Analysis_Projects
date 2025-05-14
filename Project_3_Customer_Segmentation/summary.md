@@ -12,6 +12,11 @@ Segment customers based on their purchasing behavior using the RFM (Recency, Fre
 - Power BI (for visualization of segments and customer analysis)  
 - MySQL/PostgreSQL (for database management)
 
+## 📁 Key SQL Views Created
+- total_customer_spend – Total premium spent by each customer
+- rfm_scores – Customer RFM scores (Recency, Frequency, Monetary) using NTILE
+- customer_lifetime_value – Total and average monthly premium per customer
+
 ## 📊 Key Analysis Metrics
 - RFM (Recency, Frequency, Monetary) scores  
 - Customer Lifetime Value (CLV)  
