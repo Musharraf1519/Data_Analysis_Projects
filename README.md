@@ -26,7 +26,7 @@ Datasets selected for each project are publicly available and well-suited for ou
 |--------|---------|--------|
 | **Project 1: Sales Analysis** | Global Superstore Sales Dataset | [Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) |
 | **Project 2: Web Analytics** | E-commerce Clickstream Dataset | [Kaggle](https://www.kaggle.com/datasets/waqi786/e-commerce-clickstream-and-transaction-dataset) |
-| **Project 3: Customer Segmentation** | Retail Customer Transactions | [Kaggle - E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data) |
+| **Project 3: Customer Segmentation** | Retail Customer Transactions | [Kaggle - Customer Segmentation Data](https://www.kaggle.com/datasets/ravalsmit/customer-segmentation-data)
 | **Project 4: Financial Analysis** | Historical Stock Market Data | [Kaggle - NIFTY-50 Stock Market](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data) |
 
 ---
