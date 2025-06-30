@@ -74,7 +74,7 @@ CALCULATE(
     'YourTableName'[TransactionType] = "Return"
 )
 ```
-6️⃣ Return Rate (by Revenue)
+## 6️⃣ Return Rate (by Revenue)
 **Action:**
 - Right-click your table → New measure.
 
