@@ -33,66 +33,55 @@ CALCULATE(
     SUM(ABS('YourTableName'[Quantity])),
     'YourTableName'[TransactionType] = "Return"
 )
+```
 - ℹ️ We use ABS() since return quantities are stored as negative values.
 
-3️⃣ Overall Return Rate (by Quantity)
-Action:
+## 3️⃣ Overall Return Rate (by Quantity)
+**Action:**
+- Right-click your table → New measure.
 
-Right-click your table → New measure.
-
-DAX Formula:
-
-dax
-Copy
-Edit
+**DAX Formula:**
+```dax
 Return Rate % = 
 DIVIDE([Total Units Returned], [Total Units Sold], 0)
-Format as Percentage:
 
-Select the Return Rate % measure in the Fields pane → Go to Measure Tools → Click %.
+```
+- Format as Percentage:
+- Select the Return Rate % measure in the Fields pane → Go to Measure Tools → Click %.
 
-4️⃣ Total Revenue from Sales
-Action:
+## 4️⃣ Total Revenue from Sales
+**Action:**
+- Right-click your table → New measure.
 
-Right-click your table → New measure.
-
-DAX Formula:
-
-dax
-Copy
-Edit
+**DAX Formula:**
+```dax
 Total Revenue from Sales = 
 CALCULATE(
     SUM('YourTableName'[SalesAmount]),
     'YourTableName'[TransactionType] = "Sale"
 )
-5️⃣ Total Revenue Lost to Returns
-Action:
+```
 
-Right-click your table → New measure.
+## 5️⃣ Total Revenue Lost to Returns
+**Action:**
+- Right-click your table → New measure.
 
-DAX Formula:
-
-dax
-Copy
-Edit
+**DAX Formula:**
+```dax
 Total Revenue Lost to Returns = 
 CALCULATE(
     SUM('YourTableName'[SalesAmount]),
     'YourTableName'[TransactionType] = "Return"
 )
+```
 6️⃣ Return Rate (by Revenue)
-Action:
+**Action:**
+- Right-click your table → New measure.
 
-Right-click your table → New measure.
-
-DAX Formula:
-
-dax
-Copy
-Edit
+**DAX Formula:**
+```dax
 Revenue Return Rate % = 
 DIVIDE([Total Revenue Lost to Returns], [Total Revenue from Sales], 0)
-Format as Percentage:
-
-Select Revenue Return Rate % → Go to Measure Tools → Click %.
+```
+- Format as Percentage:
+- Select Revenue Return Rate % → Go to Measure Tools → Click %.
