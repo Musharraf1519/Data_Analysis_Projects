@@ -18,6 +18,7 @@ CALCULATE(
     SUM('YourTableName'[Quantity]),
     'YourTableName'[TransactionType] = "Sale"
 )
+```
 - 🔁 Replace 'YourTableName' with your actual table name (e.g., 'Sheet1').
 
 ## 2️⃣ Total Units Returned
