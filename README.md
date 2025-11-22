@@ -86,7 +86,6 @@ Data_Analysis_Projects/
 
 ### **Project 1 — Sales Analysis**
 Analysis of revenue, sales trends, product-level performance, and operational KPIs.
-**Dashboard:**  
 ![Sales Dashboard](Project_1_Sales_Analysis/visuals/Sales%20Dashboard.png)
 
 
@@ -100,7 +99,7 @@ Traffic trends, session behavior, device insights, and performance metrics.
 
 ### **Project 3 — Customer Segmentation**
 Clustering and segmentation using SQL preprocessing and analytical modeling.  
-**Dashboard:** *Placeholder (add screenshot)*
+![Customer Segmentation Dashboard](Project_3_Customer_Segmentation/visuals/Customer%Segmentation%Dashborad.png)
 
 ---
 
@@ -112,7 +111,7 @@ Profitability metrics, cost analytics, cash flow insights, and KPI tracking.
 
 ### **Project 5 — Product Return Analysis**
 Product return trends, refund analysis, root cause analysis, and business impact.  
-**Dashboard:** *Placeholder (add screenshot)*
+![Product Return Analysis](Project_5_Product_Return_Analysis/visuals/Product%Return%Rate%Analysis%Dashboard.png)
 
 ---
 
