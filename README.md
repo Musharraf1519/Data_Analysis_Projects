@@ -99,7 +99,7 @@ Traffic trends, session behavior, device insights, and performance metrics.
 
 ### **Project 3 — Customer Segmentation**
 Clustering and segmentation using SQL preprocessing and analytical modeling.  
-![Customer Segmentation Dashboard](Project_3_Customer_Segmentation/visuals/Customer%Segmentation%Dashboard.png)
+![Customer Segmentation Dashboard](Project_3_Customer_Segmentation/visuals/Customer%Segmentation%20Dashboard.png)
 
 ---
 
