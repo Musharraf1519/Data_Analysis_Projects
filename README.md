@@ -1,7 +1,15 @@
-# 📅 Day 1: Setup & Project Planning
+# 📊 Data Analysis Projects
+
+A collection of five end-to-end data analysis projects covering sales performance, web traffic analytics, customer segmentation, financial insights, and product return patterns.
+
+This repository includes datasets, cleaned files, scripts/notebooks, and visuals for each project.
+
+---
 
 ## 🧠 Objective
-Set up the required tools and environments for all four data analysis projects and finalize datasets. This stage ensures a consistent foundation across tools and data sources for smooth execution in the coming days.
+
+Set up the required tools and environments for all five data analysis projects and finalize datasets.  
+This stage ensures a consistent foundation across tools and data sources for smooth execution.
 
 ---
 
@@ -9,7 +17,8 @@ Set up the required tools and environments for all four data analysis projects a
 
 Ensure the following tools are installed and properly configured:
 
-### 🔧 Required Tools:
+### 🔧 Required Tools 
+
 - **Power BI Desktop** – for interactive dashboards and reports
 - **Anaconda Distribution** – for managing Python environments
 - **Jupyter Notebook** or **VS Code** – for Python development
@@ -24,13 +33,106 @@ Datasets selected for each project are publicly available and well-suited for ou
 
 | Project | Dataset | Source |
 |--------|---------|--------|
-| **Project 1: Sales Analysis** | Global Superstore Sales Dataset | [Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) |
-| **Project 2: Web Analytics** | E-commerce Clickstream Dataset | [Kaggle](https://www.kaggle.com/datasets/waqi786/e-commerce-clickstream-and-transaction-dataset) |
-| **Project 3: Customer Segmentation** | Retail Customer Transactions | [Kaggle - Customer Segmentation Data](https://www.kaggle.com/datasets/ravalsmit/customer-segmentation-data)|
-| **Project 4: Financial Analysis** | Historical Stock Market Data | [Kaggle - NIFTY-50 Stock Market](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data) |
-| **Project 5: Product Return Analysis** | E-Commerce Data | [Kaggle - E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data) |
+| **Project 1: Sales Analysis** | Global Superstore Sales Dataset | [Dataset Link](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) |
+| **Project 2: Web Analytics** | E-commerce Clickstream & Transaction Data | [Dataset Link](https://www.kaggle.com/datasets/waqi786/e-commerce-clickstream-and-transaction-dataset) |
+| **Project 3: Customer Segmentation** | Retail Customer Transactions | [Dataset Link](https://www.kaggle.com/datasets/ravalsmit/customer-segmentation-data) |
+| **Project 4: Financial Analysis** | NIFTY-50 Stock Market Data | [Dataset Link](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data) |
+| **Project 5: Product Return Analysis** | E-Commerce Orders & Returns | [Dataset Link](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data) |
 
 
 ---
 
-## 📁 Project Folder Structure
+## 📁 Repository Structure
+
+Data_Analysis_Projects/
+│
+├── Project_1_Sales_Analysis/
+│   ├── cleaned/
+│   ├── data/
+│   ├── visuals/
+│
+├── Project_2_Web_Traffic/
+│   ├── data/
+│   ├── notebooks/
+│   ├── visuals/
+│
+├── Project_3_Customer_Segmentation/
+│   ├── SQL/
+│   ├── cleaned/
+│   ├── data/
+│   ├── visuals/
+│
+├── Project_4_Financial_Analysis/
+│   ├── data/
+│   ├── scripts/
+│   ├── (project in progress)
+│
+├── Project_5_Product_Return_Analysis/
+│   ├── data/
+│   ├── scripts/
+│   ├── visuals/
+│   ├── Ecommerce_Return_Analysis_Presentation.pptx
+│
+└── README.md
+
+
+
+
+---
+
+## 📌 Project Summaries
+
+### **Project 1 — Sales Analysis**
+Analysis of revenue, sales trends, product-level performance, and operational KPIs.  
+**Dashboard:** *Placeholder (add screenshot)*
+
+---
+
+### **Project 2 — Web Traffic Analysis**
+Traffic trends, session behavior, device insights, and performance metrics.  
+**Dashboard:** *Placeholder (add screenshot)*
+
+---
+
+### **Project 3 — Customer Segmentation**
+Clustering and segmentation using SQL preprocessing and analytical modeling.  
+**Dashboard:** *Placeholder (add screenshot)*
+
+---
+
+### **Project 4 — Financial Analysis (In Progress)**
+Profitability metrics, cost analytics, cashflow insights, and KPI tracking.  
+**Dashboard:** *Placeholder (add screenshot)*
+
+---
+
+### **Project 5 — Product Return Analysis**
+Product return trends, refund analysis, cause identification, and business impact.  
+**Dashboard:** *Placeholder (add screenshot)*
+
+---
+
+## 🛠️ Tools & Technologies 
+- Python  
+- SQL  
+- Excel  
+- Power BI / Tableau  
+- Pandas, NumPy
+- Jupyter Notebook / VS Code  
+
+---
+
+## 🚀 How to Use
+1. Clone the repository:
+```
+git clone https://github.com/your-username/Data_Analysis_Projects.git
+```
+2. Open any project folder to explore data, notebooks/scripts, and visuals.
+3. Replace dashboard with your actual screenshots.
+
+---
+
+## 📬 Contact
+**Musharraf Khan**  
+GitHub: *https://github.com/Musharraf1519*  
+LinkedIn: *https://www.linkedin.com/in/musharraf-hussain-khan/*
