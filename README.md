@@ -8,8 +8,9 @@ This repository includes datasets, cleaned files, scripts/notebooks, and visuals
 
 ## 🧠 Objective
 
-Set up the required tools and environments for all five data analysis projects and finalize datasets.  
-This stage ensures a consistent foundation across tools and data sources for smooth execution.
+Provide a structured collection of data analysis projects, each focused on solving a specific business problem through data cleaning, exploratory analysis, modeling, and visualization. 
+
+The goal of this repository is to demonstrate end-to-end analytical workflows — from raw data to insights — using modern tools, clean coding practices, and clear documentation.
 
 ---
 
@@ -44,6 +45,8 @@ Datasets selected for each project are publicly available and well-suited for ou
 
 ## 📁 Repository Structure
 
+```
+
 Data_Analysis_Projects/
 │
 ├── Project_1_Sales_Analysis/
@@ -75,8 +78,7 @@ Data_Analysis_Projects/
 │
 └── README.md
 
-
-
+```
 
 ---
 
@@ -101,13 +103,13 @@ Clustering and segmentation using SQL preprocessing and analytical modeling.
 ---
 
 ### **Project 4 — Financial Analysis (In Progress)**
-Profitability metrics, cost analytics, cashflow insights, and KPI tracking.  
+Profitability metrics, cost analytics, cash flow insights, and KPI tracking.  
 **Dashboard:** *Placeholder (add screenshot)*
 
 ---
 
 ### **Project 5 — Product Return Analysis**
-Product return trends, refund analysis, cause identification, and business impact.  
+Product return trends, refund analysis, root cause identification, and business impact.  
 **Dashboard:** *Placeholder (add screenshot)*
 
 ---
@@ -134,5 +136,5 @@ git clone https://github.com/your-username/Data_Analysis_Projects.git
 
 ## 📬 Contact
 **Musharraf Khan**  
-GitHub: *https://github.com/Musharraf1519*  
-LinkedIn: *https://www.linkedin.com/in/musharraf-hussain-khan/*
+GitHub: [Musharraf1519](https://github.com/Musharraf1519)  
+LinkedIn: [Musharraf Hussain Khan](https://www.linkedin.com/in/musharraf-hussain-khan/)
