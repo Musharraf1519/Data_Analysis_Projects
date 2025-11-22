@@ -87,7 +87,8 @@ Data_Analysis_Projects/
 ### **Project 1 — Sales Analysis**
 Analysis of revenue, sales trends, product-level performance, and operational KPIs.
 **Dashboard:**  
-![Sales Dashboard]("Project_1_Sales_Analysis/visuals/Sales Dashboard.png")
+![Sales Dashboard](Project_1_Sales_Analysis/visuals/Sales%20Dashboard.png)
+
 
 ---
 
