@@ -35,7 +35,7 @@ Datasets selected for each project are publicly available and well-suited for ou
 | Project | Dataset | Source |
 |--------|---------|--------|
 | **Project 1: Sales Analysis** | Global Superstore Sales Dataset | [Dataset Link](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) |
-| **Project 2: Web Analytics** | E-commerce Clickstream & Transaction Data | [Dataset Link](https://www.kaggle.com/datasets/waqi786/e-commerce-clickstream-and-transaction-dataset) |
+| **Project 2: Web Traffic Analysis** | E-commerce Clickstream & Transaction Data | [Dataset Link](https://www.kaggle.com/datasets/waqi786/e-commerce-clickstream-and-transaction-dataset) |
 | **Project 3: Customer Segmentation** | Retail Customer Transactions | [Dataset Link](https://www.kaggle.com/datasets/ravalsmit/customer-segmentation-data) |
 | **Project 4: Financial Analysis** | NIFTY-50 Stock Market Data | [Dataset Link](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data) |
 | **Project 5: Product Return Analysis** | E-Commerce Orders & Returns | [Dataset Link](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data) |
@@ -54,7 +54,7 @@ Data_Analysis_Projects/
 │   ├── data/
 │   ├── visuals/
 │
-├── Project_2_Web_Traffic/
+├── Project_2_Web_Traffic_Analysis/
 │   ├── data/
 │   ├── notebooks/
 │   ├── visuals/
@@ -68,7 +68,7 @@ Data_Analysis_Projects/
 ├── Project_4_Financial_Analysis/
 │   ├── data/
 │   ├── scripts/
-│   ├── (project in progress)
+│   ├── (In Progress)
 │
 ├── Project_5_Product_Return_Analysis/
 │   ├── data/
@@ -85,8 +85,9 @@ Data_Analysis_Projects/
 ## 📌 Project Summaries
 
 ### **Project 1 — Sales Analysis**
-Analysis of revenue, sales trends, product-level performance, and operational KPIs.  
-**Dashboard:** *Placeholder (add screenshot)*
+Analysis of revenue, sales trends, product-level performance, and operational KPIs.
+**Dashboard:**  
+![Sales Dashboard]("Project_1_Sales_Analysis/visuals/Sales Dashboard.png")
 
 ---
 
@@ -109,7 +110,7 @@ Profitability metrics, cost analytics, cash flow insights, and KPI tracking.
 ---
 
 ### **Project 5 — Product Return Analysis**
-Product return trends, refund analysis, root cause identification, and business impact.  
+Product return trends, refund analysis, root cause analysis, and business impact.  
 **Dashboard:** *Placeholder (add screenshot)*
 
 ---
@@ -127,10 +128,9 @@ Product return trends, refund analysis, root cause identification, and business 
 ## 🚀 How to Use
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/Data_Analysis_Projects.git
+    git clone https://github.com/your-username/Data_Analysis_Projects.git
 ```
 2. Open any project folder to explore data, notebooks/scripts, and visuals.
-3. Replace dashboard with your actual screenshots.
 
 ---
 
